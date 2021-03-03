@@ -1,0 +1,112 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:00:10] "[37mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:00:54] "[37mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:01:08] "[37mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 200 -
+ERROR:werkzeug:127.0.0.1 - - [24/Feb/2021 22:21:47] code 400, message Bad request syntax ('GET /hpscholar?title=Health, Education and Economic Growth Nexus: Evidence from Middle Income Countries HTTP/1.1')
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:21:47] "[35m[1mGET /hpscholar?title=Health, Education and Economic Growth Nexus: Evidence from Middle Income Countries HTTP/1.1[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:23:01] "[37mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:23:04] "[37mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:23:48] "[37mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 200 -
+ERROR:werkzeug:127.0.0.1 - - [24/Feb/2021 22:24:37] code 400, message Bad request syntax ('GET /hpscholar?title=Health, Education and Economic Growth Nexus: Evidence from Middle Income Countries HTTP/1.1')
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:24:37] "[35m[1mGET /hpscholar?title=Health, Education and Economic Growth Nexus: Evidence from Middle Income Countries HTTP/1.1[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:26:03] "[37mGET /hpscholar?title=Health%2C%20Education%20and%20Economic%20Growth%20Nexus%3A%20Evidence%20from%20Middle%20Income%20Countries HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:27:20] "[37mGET /hpscholar?title=Health%2C+Education+and+Economic+Growth+Nexus%3A+Evidence+from+Middle+Income+Countries HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:27:58] "[37mGET /hpscholar?title=Health%2C+Education+and+Economic+Growth+Nexus%3A+Evidence+from+Middle+Income+Countries HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:28:38] "[37mGET /hpscholar?title=Health%2C+Education+and+Economic+Growth+Nexus%3A+Evidence+from+Middle+Income+Countries HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:42:15] "[37mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:46:26] "[37mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:46:56] "[37mGET /hpscholar?title=Political+Islam+in+Perspective HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:47:56] "[37mGET /hpscholar?title=The+Influence+of+Environmental+Factors+and+Access+to+Financial+Capital+on+the+Link+Between+Entrepreneurial+Orientation+and+SMEs+Performance%3A+A+Case+from+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:49:42] "[37mGET /hpscholar?title=The+Influence+of+Environmental+Factors+and+Access+to+Financial+Capital+on+the+Link+Between+Entrepreneurial+Orientation+and+SMEs+Performance%3A+A+Case+from+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:51:36] "[37mGET /hpscholar?title=The+Influence+of+Environmental+Factors+and+Access+to+Financial+Capital+on+the+Link+Between+Entrepreneurial+Orientation+and+SMEs+Performance%3A+A+Case+from+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 22:53:19] "[37mGET /hpscholar?title=The+Influence+of+Environmental+Factors+and+Access+to+Financial+Capital+on+the+Link+Between+Entrepreneurial+Orientation+and+SMEs+Performance%3A+A+Case+from+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 23:25:50] "[35m[1mGET /hpscholar?title=Digital+Literacy+Effect+on+the+Academic+Performance+of+Students+at+Higher+Education+Level+in+Pakistan HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 23:26:20] "[35m[1mGET /hpscholar?title=Digital+Literacy+Effect+on+the+Academic+Performance+of+Students+at+Higher+Education+Level+in+Pakistan HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 23:26:50] "[35m[1mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 23:27:39] "[35m[1mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 23:38:49] "[37mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 23:39:07] "[37mGET /hpscholar?title=Digital+Literacy+Effect+on+the+Academic+Performance+of+Students+at+Higher+Education+Level+in+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Feb/2021 23:59:25] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2021 01:45:54] "[35m[1mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2021 01:46:45] "[35m[1mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2021 01:50:17] "[35m[1mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2021 01:57:52] "[35m[1mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2021 02:40:47] "[35m[1mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2021 03:08:45] "[37mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2021 03:54:18] "[35m[1mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2021 22:46:28] "[35m[1mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2021 22:46:58] "[35m[1mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [25/Feb/2021 22:47:59] "[37mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Feb/2021 03:31:55] "[33mGET /mashood?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:16:56] "[37mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:17:36] "[37mGET /hpscholar?title=Digital%20Literacy%20Effect%20on%20the%20Academic%20Performance%20of%20Students%20at%20Higher%20Education%20Level%20in%20Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:19:14] "[37mGET /hpscholar?title=Wh-movement%20pattern%20in%20the%20spoken%20discourse%20of%20teachers%20a%20syntactic%20analysis HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:22:54] "[37mGET /hpscholar?title=Wh-movement%20pattern%20in%20the%20spoken%20discourse%20of%20teachers%20a%20syntactic%20analysis HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:25:06] "[37mGET /hpscholar?title=Wh-movement+pattern+in+the+spoken+discourse+of+teachers+a+syntactic+analysis HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:25:25] "[37mGET /hpscholar?title=Wh-movement+pattern+in+the+spoken+discourse+of+teachers+a+syntactic+analysis HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:26:12] "[37mGET /hpscholar?title=Wh-movement+pattern+in+the+spoken+discourse+of+teachers+a+syntactic+analysis HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:27:20] "[37mGET /hpscholar?title=Wh-movement+pattern+in+the+spoken+discourse+of+teachers+a+syntactic+analysis HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:35:25] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:38:00] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:39:27] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:43:51] "[37mGET /hpscholar?title=Wh-movement+pattern+in+the+spoken+discourse+of+teachers+a+syntactic+analysis HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:44:43] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:52:24] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 20:54:43] "[37mGET /hpscholar?title=Political+Islam+in+Perspective HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Feb/2021 22:01:02] "[37mGET /hpscholar?title=Political+Islam+in+Perspective HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 00:09:56] "[37mGET /hpscholar?title=Political+Islam+in+Perspective HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 00:10:36] "[37mGET /hpscholar?title=Political+Islam+in+Perspective HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 01:07:10] "[37mGET /hpscholar?title=Political+Islam+in+Perspective HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 01:14:19] "[37mGET /hpscholar?title=Political+Islam+in+Perspective HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 01:17:12] "[37mGET /hpscholar?title=Political+Islam+in+Perspective HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 02:35:20] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 03:26:57] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 03:28:02] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 03:30:50] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 03:32:22] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 03:33:26] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 03:44:51] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 20:32:52] "[37mGET /hpscholar?title=Political+Islam+in+Perspective HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 23:30:05] "[37mGET /hpscholar?title=Political+Islam+in+Perspective HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 23:33:51] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 23:35:07] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 23:36:23] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 23:45:03] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 23:46:30] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Mar/2021 23:48:59] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 00:34:35] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 00:40:35] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 00:45:53] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 00:48:40] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 00:49:43] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 00:51:18] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 01:07:12] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 01:08:21] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 01:31:59] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 01:45:47] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 01:49:31] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 01:50:07] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 02:16:22] "[37mGET /hpscholar?title=Wh-movement%20pattern%20in%20the%20spoken%20discourse%20of%20teachers%20a%20syntactic%20analysis HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 02:44:45] "[33mGET /scholar?q=info:52LGaL9STG0J:scholar.google.com/&output=cite&scirp=0&hl=en HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 02:44:56] "[33mGET /scholar?q=info:52LGaL9STG0J:scholar.google.com/&output=cite&scirp=0&hl=en HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 02:44:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 02:50:25] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 02:55:15] "[37mGET /hpscholar?title=Wh-movement%20pattern%20in%20the%20spoken%20discourse%20of%20teachers%20a%20syntactic%20analysis HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [02/Mar/2021 20:45:10] "[37mGET /hpscholar?title=The+State+of+Human+Rights+in+Federally+Administered+Tribal+Areas+of+Pakistan HTTP/1.1[0m" 200 -
